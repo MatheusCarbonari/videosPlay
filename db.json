@@ -1,0 +1,60 @@
+{
+  "videos": [
+    {
+      "titulo": "Gestão e liderança de equipes (BERNARDINHO)",
+      "descricao": "JOTA JOTA PODCAST #68",
+      "url": "https://www.youtube.com/embed/07GOHDyeV-M?list=PLByCI4BxQvkSJKS_sj01Vg_5kuyBO3bsq",
+      "imagem": "https://yt3.ggpht.com/PmEblIYglDwWF6Q0IBcGBn3FYVcFj_psTIB7meIFm_NIJKtFynrYrbEjodb82KPs6xumJj46ftI=s48-c-k-c0x00ffffff-no-rj",
+      "id": 1
+    },
+    {
+      "titulo": "A FILOSOFIA PARA PENSAR MAIS E MELHOR (LUIZ FELIPE PONDÉ)",
+      "descricao": "6 mil visualizações",
+      "url": "https://www.youtube.com/embed/rWWeRNY4_1Q",
+      "imagem": "https://yt3.ggpht.com/PmEblIYglDwWF6Q0IBcGBn3FYVcFj_psTIB7meIFm_NIJKtFynrYrbEjodb82KPs6xumJj46ftI=s48-c-k-c0x00ffffff-no-rj",
+      "id": 2
+    },
+    {
+      "titulo": "COMO CUIDAR MELHOR DA SUA SAÚDE MENTAL COM IZABELLA CAMARGO",
+      "descricao": "JOTA JOTA PODCAST #84",
+      "url": "https://www.youtube.com/embed/tQebuafo1ns",
+      "imagem": "https://yt3.ggpht.com/PmEblIYglDwWF6Q0IBcGBn3FYVcFj_psTIB7meIFm_NIJKtFynrYrbEjodb82KPs6xumJj46ftI=s48-c-k-c0x00ffffff-no-rj",
+      "id": 3
+    },
+    {
+      "titulo": "O LIMITE do CHATGPT? EXPLICANDO o MACHINE LEARNING",
+      "descricao": "Cortes do Inteligência [Oficial]",
+      "url": "https://www.youtube.com/embed/vBnK6jABBfI",
+      "imagem": "https://yt3.ggpht.com/ytc/AGIKgqOULeV2ihRPRqTlmqO4-1-Vg7V5TQ8uBBZWKc4B=s48-c-k-c0x00ffffff-no-rj",
+      "id": 4
+    },
+    {
+      "titulo": "INTELIGÊNCIA ARTIFICIAL: SACANI, ROBERTA E ALEXANDRE CHIAVEGATTO",
+      "descricao": "Inteligência Ltda. Podcast #840",
+      "url": "https://www.youtube.com/embed/Q1zM0xkWOGw",
+      "imagem": "https://yt3.ggpht.com/1RivlqEbdiblx404kA_o3Fy2Yp1GxN2kbqOonYZKphz3CZiX7SEsbOJ9jA-r-Rd-dPGp27Ux=s48-c-k-c0x00ffffff-no-rj",
+      "id": 5
+    },
+    {
+      "titulo": "ESLEN DELANOGARE (NEUROCIENTISTA)",
+      "descricao": "Inteligência Ltda. Podcast #602",
+      "url": "https://www.youtube.com/embed/GNa8Dj1TSU8",
+      "imagem": "https://yt3.ggpht.com/1RivlqEbdiblx404kA_o3Fy2Yp1GxN2kbqOonYZKphz3CZiX7SEsbOJ9jA-r-Rd-dPGp27Ux=s48-c-k-c0x00ffffff-no-rj",
+      "id": 6
+    },
+    {
+      "titulo": "AUTOCONHECIMENTO E FÉ (JACOB PETRY)",
+      "descricao": "JOTA JOTA PODCAST #111",
+      "url": "https://www.youtube.com/embed/mbiT2V6G2UE",
+      "imagem": "https://yt3.ggpht.com/PmEblIYglDwWF6Q0IBcGBn3FYVcFj_psTIB7meIFm_NIJKtFynrYrbEjodb82KPs6xumJj46ftI=s48-c-k-c0x00ffffff-no-rj",
+      "id": 7
+    },
+    {
+      "titulo": "QUE AULA! A RELAÇÃO entre o ATOMISMO e o HEDONISMO",
+      "descricao": "Cortes do Inteligência [OFICIAL] - CLÓVIS DE BARROS",
+      "url": "https://www.youtube.com/embed/Atk2GRFhB50",
+      "imagem": "https://yt3.ggpht.com/ytc/AGIKgqOULeV2ihRPRqTlmqO4-1-Vg7V5TQ8uBBZWKc4B=s48-c-k-c0x00ffffff-no-rj",
+      "id": 8
+    }
+  ]
+}
